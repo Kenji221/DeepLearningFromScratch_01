@@ -1,7 +1,9 @@
 # TODO
 - e（自然対数）についてより深い知識を獲得せよ
-- 
-
+- BatchNormの実装をせよ
+- DropOutの実装をせよ
+- weight Decayの実装をせよ
+- Convolution / Poolingの逆伝搬の計算
 
 
 # About Perceptron
